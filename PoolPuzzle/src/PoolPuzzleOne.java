@@ -3,7 +3,12 @@
  */
 public class PoolPuzzleOne {
     public static void main (String [] args) {
-        int x =1; // compile test
-    }
+        int x = 0; // compile test
 
-}
+        while (_________) {
+
+        } // end of while loop
+
+    } // end of main method
+
+} // end of PoolPuzzleOne class
