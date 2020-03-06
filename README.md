@@ -1,3 +1,7 @@
+## Java Apps Collection (1 of 2)
+Practice to stay sharp and indulge in a little Java.
+
+## License
 MIT License
 
 Copyright (c) 2020 Frank Santaguida
